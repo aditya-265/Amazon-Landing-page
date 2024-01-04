@@ -1,3 +1,2 @@
 # Amazon-Landing-page
-<p>1. This project is an Amazon clone built using HTML and CSS. It aims to replicate the main features and 
-   design of the Amazon homepage.</p>
+<p>This project is an Amazon clone built using HTML and CSS. It attempts to replicate the key elements and layout of the Amazon homepage.</p>
